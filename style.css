@@ -1,0 +1,61 @@
+body{
+    background-color: aquamarine;
+}
+h1 {
+    text-align: center;
+    color: black;
+  }
+  
+  p {
+    text-align: center;
+    color: black;
+  }
+  
+  .menu a:visited {
+    color: black;
+    background-color: inherit;
+  }
+  
+  ul.menu {
+    display: flex;
+    color: black;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 25px;
+    flex-flow: wrap;
+  }
+  
+  hr {
+    border-top: 2px solid black;
+  }
+  
+  .centreer {
+    display: flex;
+  }
+  
+  li a:hover {
+    color: black;
+    border-bottom: 3px solid white;
+  }
+  
+  ul {
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a {
+    text-align: center;
+  }
