@@ -1,61 +1,62 @@
-body{
-    background-color: aquamarine;
+body {
+  background-color: aquamarine;
 }
+
 h1 {
-    text-align: center;
-    color: rgb(153,50,204);
-  }
-  
-  p {
-    text-align: center;
-    color: black;
-  }
-  
-  .menu a:visited {
-    color: black;
-    background-color: inherit;
-  }
-  
-  ul.menu {
-    display: flex;
-    color: black;
-    justify-content: space-evenly;
-    list-style: none;
-    font-size: 25px;
-    flex-flow: wrap;
-  }
-  
-  hr {
-    border-top: 2px solid black;
-  }
-  
-  .centreer {
-    display: flex;
-  }
-  
-  li a:hover {
-    color: black;
-    border-bottom: 3px solid rgb(153,50,204);
-  }
-  
-  ul {
-    text-align: center;
-  }
-  
-  ul {
-    list-style: none;
-  }
-  
-  li {
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-  }
-  
-  a {
-    color: rgb(153,50,204);
-  }
-  
-  a {
-    text-align: center;
-  }
+  text-align: center;
+  color: rgb(153, 50, 204);
+}
+
+p {
+  text-align: center;
+  color: black;
+}
+
+.menu a:visited {
+  color: black;
+  background-color: inherit;
+}
+
+ul.menu {
+  display: flex;
+  color: black;
+  justify-content: space-evenly;
+  list-style: none;
+  font-size: 25px;
+  flex-flow: wrap;
+}
+
+hr {
+  border-top: 2px solid black;
+}
+
+.centreer {
+  display: flex;
+}
+
+li a:hover {
+  color: black;
+  border-bottom: 3px solid rgb(153, 50, 204);
+}
+
+ul {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+a {
+  color: rgb(153, 50, 204);
+}
+
+a {
+  text-align: center;
+}
